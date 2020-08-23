@@ -1,5 +1,5 @@
 # PDF Modifier
 
-This simple application enables you to either merger (concatenate) or watermark PDF's using a pre-defined watermark.
+This simple application enables you to either merge (concatenate) or watermark PDF's using a pre-defined watermark.
 
-I will be adding some error handling and input modifitcation.
+I am planning on adding some input and error handling.
